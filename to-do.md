@@ -2,7 +2,7 @@
 
 ## Keynote
 
-- More slides -- done, and removed some -- done
+- More slides -- and removed some -- done
 - demonstrate staging, commit, and diff -- done
 - demonstrate branching and merging -- done
 - discuss pull requests as collaboration -- done
@@ -12,6 +12,7 @@
 - Branching
 - Merging
 - Collaboration (via pull requests)
+- Generally smooth things out and add scaffolding
 
 ## Practice
 
