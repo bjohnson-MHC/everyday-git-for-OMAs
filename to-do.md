@@ -2,7 +2,7 @@
 
 ## Keynote
 
-- More slides
+- More slides -- done, and removed some
 - demonstrate staging, commit, and diff
 - demonstrate branching and merging
 - discuss pull requests as collaboration
