@@ -2,10 +2,10 @@
 
 ## Keynote
 
-- More slides -- done, and removed some
-- demonstrate staging, commit, and diff
-- demonstrate branching and merging
-- discuss pull requests as collaboration
+- More slides -- done, and removed some -- done
+- demonstrate staging, commit, and diff -- done
+- demonstrate branching and merging -- done
+- discuss pull requests as collaboration -- done
 
 ## Talking script
 
