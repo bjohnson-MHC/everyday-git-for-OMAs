@@ -15,8 +15,8 @@
 
 ## Practice
 
-- Rough draft
-- Refine, refine, refine
+- Rough draft -- done
+- Refine, refine, refine -- doing
 
 ## Administrative
 
