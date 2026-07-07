@@ -9,18 +9,25 @@
 
 ## Talking script
 
-- Branching
-- Merging
-- Collaboration (via pull requests)
-- Generally smooth things out and add scaffolding
+- Branching - done and smoothed out
+- Merging - done
+- Collaboration (via pull requests) - pull request submitted - done
+- Generally smooth things out and add scaffolding - done
 
 ## Practice
 
 - Rough draft -- done
 - Refine, refine, refine -- doing
+- Add/remove slides that don't sit right
 
 ## Administrative
 
-- Submit authorization request
-- Upload presentation slides by Tuesday, July 7
-- Submit expense report
+- Submit authorization request - done
+- Upload presentation slides by Tuesday, July 7 - doing
+- Submit expense report - after conference
+
+## Plum notes to self
+
+"OMG, is this even right?"
+"Frankenstein a screencap"
+
