@@ -18,7 +18,7 @@ Wednesday, July 8, 2026 - 1:30pm-2:45pm
 
 ### Platform learning resources
 
-- (GitHub - Get Started](https://docs.github.com/en/get-started)
+- [GitHub - Get Started](https://docs.github.com/en/get-started)
 - [Microsoft Learning - GitHub Foundations Course, Part 1](https://learn.microsoft.com/en-us/training/paths/github-foundations/)
 - and [Part 2](https://learn.microsoft.com/en-us/training/paths/github-foundations-2/)
 - [GitLab - Get Started with GitLab](https://docs.gitlab.com/user/get_started/)
