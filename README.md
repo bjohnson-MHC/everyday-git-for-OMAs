@@ -34,6 +34,8 @@ Wednesday, July 8, 2026 - 1:30pm-2:45pm
 - [Basic Git for non-Programmers – Chris Carr - PSU MacAdmins 2025](https://www.youtube.com/watch?v=1SQyugCm1MQ&t=4s)
 - [Streamline Your macOS Administration with Github Actions - Jon Crain - PSU MacAdmins 2023](https://www.youtube.com/watch?v=bznnSyl9i48)
 - [Jamf as Code: Managing Scripts and Extension Attributes with GitLab CI - PSU MacAdmins 2026](https://docs.google.com/document/d/1RImBbT07E_lUociwK3-OFo3gK7zmM_ISCZ9SzrB8BEA/edit?tab=t.0#heading=h.8dr8yja46mrh)
+- [Security Called: How I Turned a Scripting Disaster into a GitOps Pipeline - PSU MacAdmins 2026](https://bit.ly/44Vrldw)
+- and more . . .
 
 ### Jamf resources
 
